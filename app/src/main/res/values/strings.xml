@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyMaterialDesign</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="snackbar_text">Are You Crazy?</string>
+    <string name="snackbar_action">No!</string>
+    <string name="btn_submit">Submit</string>
+    <string name="etName">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="txtInputLayoutTitle">Floating labels for editing text</string>
+    <string name="action_next">Next</string>
+
+
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+
+</resources>
